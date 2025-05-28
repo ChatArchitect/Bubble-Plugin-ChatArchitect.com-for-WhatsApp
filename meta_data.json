@@ -3,10 +3,12 @@
         "0": "customer support",
         "1": "mobile"
     },
+    "data_tracked": false,
     "description": "The plugin integrates the WhatsApp Business API into your Bubble apps. You will be able to send notifications to your clients through WhatsApp.",
     "image": "//s3.amazonaws.com/appforest_uf/f1627127800220x906230958903633900/whatsapp-logo.png",
     "license": "open_source",
     "link": "https://www.chatarchitect.com/whatsapp/",
     "name": "ChatArchitect.com for WhatsApp",
-    "plugin_instructions": "The cost of WhatsApp Business API is from 15 € per month, for more details visit https://www.chatarchitect.com/whatsapp/\n\nPlease read the WhatsApp Business policy before using the app https://www.whatsapp.com/legal/business-policy/"
+    "plugin_instructions": "The cost of WhatsApp Business API is from 15 € per month, for more details visit https://www.chatarchitect.com/whatsapp/\n\nPlease read the WhatsApp Business policy before using the app https://www.whatsapp.com/legal/business-policy/",
+    "sa_node_version": 18
 }
